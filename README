@@ -1,0 +1,42 @@
+##Ejercicios guiados
+
+1.- Estandarización ==> est.py
+Calcular la versión estandarizada para el vector [1,2,3,4,5,6]
+La función tiene que retornar la media, la desviación estándar y la versión estandarizada
+(La estandarización es un proceso en el cual un vector (una lista de números) de
+datos es transformado y llevado a un rango de datos más acotado. Para ello es
+necesario el cálculo de dos estadísticos que permitirán llevarlo a este estado)
+
+
+2.-Filtrado relevante
+● Un diccionario con los productos que cumplen una cierta condición dado un umbral
+● La función debe permitir mostrar los valores mayor que o menor que un umbral
+● Por defecto la función debe siempre mostrar los valores mayor que el umbral a menos
+que se indique lo contrario.
+script ==> python filtro.py 30000 / python filtro.py 30000 menor / python filtro.py 30000 otro
+
+3.- Lotería
+loto.py aplicación para extraer un número dentro de un rango del 1 al 20.
+
+
+4.-MINI ENCUESTA
+● Crearemos una frase ficitia en base a 3 preguntas
+● Las respuestas dadas deben ser:
+○ almacenadas en una lista
+○ mostradas al final del programa para conocimiento del usuario
+
+
+5.-Apoyo matemático 
+● ong.py está enseñando a programar algunas operaciones avanzadas. Se quiere enseñar dos operaciones
+conocidas como el factorial y la productoria. Se requiere implementación mediante script.
+
+6.- Alertas telemáticas
+velocidad.py mide  mediante telemetría las velocidades de cada una de sus correas transportadoras.
+● Para ello se pide determinar una funcionalidad que calcule el promedio de una lista de
+velocidades.
+● Listar las posiciones de todas las correas transportadoras que están sobre el
+promedio.
+● Implementar la solución mediante una función en un archivo llamado velocidad.py.
+
+
+
